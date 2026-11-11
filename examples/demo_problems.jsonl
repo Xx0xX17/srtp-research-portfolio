@@ -1,0 +1,4 @@
+{"id":"demo_physics_001","problem":"A 2.0 kg block slides on a frictionless horizontal surface at 3.0 m/s. What is its kinetic energy?","solution":"Use K = 1/2 mv^2 = 1/2 × 2.0 × 3.0^2 = 9.0 J.","answer":"9.0 J"}
+{"id":"demo_physics_002","problem":"A 4 ohm resistor carries a current of 2 A. Find the voltage across it.","solution":"By Ohm's law, V = IR = 2 × 4 = 8 V.","answer":"8 V"}
+{"id":"demo_incomplete","problem":"This fictional row intentionally omits a solution for the audit demo.","solution":"","answer":"Not available"}
+
