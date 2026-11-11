@@ -46,6 +46,7 @@
 ├── README.md
 ├── CONTRIBUTIONS.md
 ├── PRIVACY.md
+├── .env.example
 ├── requirements.txt
 ├── examples/
 │   ├── demo_problems.jsonl
@@ -78,6 +79,10 @@ streamlit run src/review_app.py -- --data examples/demo_problems.jsonl
 ## 技术工具
 
 `Python` · `JSON/JSONL` · `Streamlit` · `LLM API` · `Git/GitHub` · `人工评测`
+
+## 凭据安全
+
+仓库中涉及 API 凭据的展示统一使用 `********`，不会出现真实值。实际运行时应通过环境变量读取凭据，例如 `LLM_API_KEY`，不要把真实 Key 写进源码、截图、文档或 Git 历史。
 
 ## 说明
 
